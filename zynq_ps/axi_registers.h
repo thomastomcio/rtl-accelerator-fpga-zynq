@@ -1,0 +1,9 @@
+#ifndef AXI_REGISTERS_H
+#define AXI_REGISTERS_H
+
+#define AXI_CTRL_BASE       0x43C00000u
+#define AXI_REG_DMA_START   0x00u
+#define AXI_REG_DMA_STATUS  0x04u
+#define AXI_REG_SIGNAL_READ 0x08u
+
+#endif
